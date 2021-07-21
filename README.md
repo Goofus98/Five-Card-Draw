@@ -27,3 +27,5 @@
   PixelTail Games for seats and table model
   PixelTail Games for chips and showdown sounds
   Hand evaluation algo: https://jonathanhsiao.com/blog/evaluating-poker-hands-with-bit-math
+
+ Video: https://youtu.be/BXFUDJ-1_IE

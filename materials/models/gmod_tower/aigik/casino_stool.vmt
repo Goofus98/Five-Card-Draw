@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gmod_tower/aigik/casino_stool"
+	"$bumpmap" "models/gmod_tower/aigik/casino_stool_normal"
+        "$envmap" "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	 $phong 1
+	$phongexponent 15
+	$phongboost 2
+	$phongfresnelranges "[1 3 8]" 
+}

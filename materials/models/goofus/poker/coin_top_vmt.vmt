@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	
+	$basetexture "models/goofus/poker/coin_top"
+	"$bumpmap" "models/goofus/poker/coin_top_nrm" 
+
+	"$envmap" "shadertest/cubemap"	
+	"$envmapsaturation" 0.3
+	"$envmapcontrast" 0.3
+	"$model" 1
+	 $phong 1
+	$phongexponent 20
+	$phongboost .2
+	$phongfresnelranges "[1 1 4]" 
+}

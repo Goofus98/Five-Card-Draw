@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{ //0.0765
+//0.247
+	"$basetexture" "ui/poker/playing_cards_deck"
+	"$translucent" 0
+            	"$basetexturetransform"  "center .0 .0 scale 0.0725 0.25 rotate 0  translate 0.0815 .005"
+}

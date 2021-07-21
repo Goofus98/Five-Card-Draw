@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	$basetexture "ui/poker/card_joker"
+	$alphatest 1
+	$alphatestreference 0.8
+	$allowalphatocoverage 1
+}

@@ -1,0 +1,6 @@
+"UnLitGeneric"
+{
+	
+	$basetexture "models/goofus/poker/coin_top"
+	$translucent 1
+}

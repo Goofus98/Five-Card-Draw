@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	$basetexture "models/goofus/poker/card_back"
+	$alphatest 1
+	$alphatestreference 0.8
+	$allowalphatocoverage 1
+}

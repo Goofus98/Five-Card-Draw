@@ -1,0 +1,36 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/goofus/poker/chip_side"
+	"$bumpmap" "models/goofus/poker/chip_side_nrm" 
+
+	"$envmap" "shadertest/cubemap"	
+	"$envmapsaturation" 0.3
+	"$envmapcontrast" 1.3
+	"$model" 1
+	 $phong 1
+	$phongexponent 12
+	$phongboost .1
+	$phongfresnelranges "[1 3 8]" 
+	$model 1
+ 
+	$svar "[1 1]"
+
+
+	Proxies 
+	{
+		PokerStack
+		{
+			resultVar	$svar
+			default	 "[1 1]"
+		} 
+ 
+		texturetransform
+		{
+ 
+			scalevar $svar
+			resultvar $basetexturetransform
+		}
+	}
+
+
+}
